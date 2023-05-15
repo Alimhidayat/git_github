@@ -1,0 +1,7 @@
+body{
+  background-color: green;
+}
+h3:hover{
+  color: pink;
+  font-size: 2rem;
+}
