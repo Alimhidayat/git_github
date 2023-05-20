@@ -1,6 +1,10 @@
 body{
   background-color: green;
 }
+h3{
+  background-color: pink;
+  transition: 0.5s;
+}
 h3:hover{
   color: pink;
   font-size: 2rem;
